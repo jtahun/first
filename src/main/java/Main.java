@@ -23,7 +23,7 @@ class HasResource1 implements AutoCloseable {
   public void close(){
     free();
   }
-}
+}//some changes
 
 public BeanGetter<JdbcAcces> jdbcAccess;
 
